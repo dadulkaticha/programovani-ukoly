@@ -1,0 +1,5 @@
+Regulární výraz pro hledání vět:
+sentence_pattern = re.compile(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s')
+
+Výraz co zahrnuje možnost titulů ve větě:
+[A-ZÁ-Ž][^!?.]*(?:(?<!\bMudr).(?=\s+[A-ZÁ-Ž])|[!?]|(?:.{3})|$)
