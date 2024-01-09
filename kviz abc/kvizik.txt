@@ -1,3 +1,0 @@
-Ktere mesto je nejvetsi?;Brno;Praha;Olomouc;b
-Ktere mesto je nejvetsi?;Brno;Praha;Olomouc;b
-Ktere mesto je nejmensi?;Brno;Praha;Olomouc;c
